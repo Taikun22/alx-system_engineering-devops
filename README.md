@@ -1,2 +1,2 @@
-##SHELL BASICS
-SCRIPT THAT PRINTS ABSOLUTE PATH##SHELL BASICS
+My second readme
+My second readme
